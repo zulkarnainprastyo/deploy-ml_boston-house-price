@@ -59,6 +59,7 @@ problems.
 
 ![image](https://user-images.githubusercontent.com/103234274/204531631-7fbbc5ac-45f4-4e09-8146-c1539277b96b.png)
 
+![image](https://user-images.githubusercontent.com/103234274/204535078-d8da9c84-8b9d-4932-a7f2-7fefd7882c3b.png)
 
 ## * Block preprocessing diagram
 
