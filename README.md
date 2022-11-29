@@ -4,17 +4,16 @@
 * Block data preparation diagram
 
 **import pandas as pd:**
+import numpy as np:
+import matplotlib.pyplot as plt:
+%matplotlib inline:
 
-:import numpy as np
-:import matplotlib.pyplot as plt
-:%matplotlib inline
+from sklearn.datasets import load_boston:
 
-:from sklearn.datasets import load_boston
+boston=load_boston():
 
-:boston=load_boston()
-
-:boston.keys()
-::dict_keys(['data', 'target', 'feature_names', 'DESCR', 'filename', 'data_module'])
+boston.keys():
+dict_keys(['data', 'target', 'feature_names', 'DESCR', 'filename', 'data_module']):
 
 Lets check the description of the dataset
 print(boston.DESCR)
