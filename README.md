@@ -62,7 +62,7 @@ problems.
 
 
 ## * Block preprocessing diagram
-
+![image](https://user-images.githubusercontent.com/103234274/204536227-feab7afe-1546-4ad0-876f-bcff5251ce82.png)
 
 ## * Block diagram features engineering.
 
