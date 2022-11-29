@@ -56,7 +56,7 @@ problems.
    - Belsley, Kuh & Welsch, 'Regression diagnostics: Identifying Influential Data and Sources of Collinearity', Wiley, 1980. 244-261.
    - Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
-![image](https://user-images.githubusercontent.com/103234274/204535867-4b01aad9-e3e8-49e9-b28e-8de42e73c080.png)
+### ![image](https://user-images.githubusercontent.com/103234274/204535867-4b01aad9-e3e8-49e9-b28e-8de42e73c080.png)
 
 ![image](https://user-images.githubusercontent.com/103234274/204535555-5fe52676-ad0c-41de-8853-6eae3d2ddb46.png)
 
@@ -67,11 +67,11 @@ problems.
 ## * Block diagram features engineering.
 ![image](https://user-images.githubusercontent.com/103234274/204537061-91fe7bca-d697-4153-be01-072b1c5359fc.png)
 
-![image](https://user-images.githubusercontent.com/103234274/204537150-20ef32e9-b60a-4ff4-827b-e312c00a9f25.png)
+### ![image](https://user-images.githubusercontent.com/103234274/204537150-20ef32e9-b60a-4ff4-827b-e312c00a9f25.png)
 
-![image](https://user-images.githubusercontent.com/103234274/204537293-e54e1a66-5c11-4c83-a677-16156f4c5034.png)
+### ![image](https://user-images.githubusercontent.com/103234274/204537293-e54e1a66-5c11-4c83-a677-16156f4c5034.png)
 
-![image](https://user-images.githubusercontent.com/103234274/204537394-3d170787-a05b-42e1-8324-51184e949133.png)
+### ![image](https://user-images.githubusercontent.com/103234274/204537394-3d170787-a05b-42e1-8324-51184e949133.png)
 
 
 ## * Block diagram modeling and its evaluation
