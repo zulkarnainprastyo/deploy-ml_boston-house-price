@@ -90,6 +90,8 @@ problems.
 ![image](https://user-images.githubusercontent.com/103234274/204539358-b5afa284-31e3-4607-9550-32d75dabf4d4.png)
 
 ## * Format Message to make predictions via API
+![image](https://user-images.githubusercontent.com/103234274/204544308-22a6d545-de51-49f1-9d66-8ed7c1c1f621.png)
+
 {
 "data": {
 "CRIM": 0.8632,
