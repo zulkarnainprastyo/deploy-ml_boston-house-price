@@ -1,5 +1,9 @@
 ### Deploy-ML_Boston-House-Price
 
+### Background Project
+##### Tujuan utama course Machine Learning Process adalah untuk mempersiapkan dalam mengaplikasikan end to end workflow machine learning
+ke dalam real-world task
+
 ### Outcome Project
 ### * Block data preparation diagram
 
