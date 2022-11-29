@@ -59,6 +59,8 @@ problems.
 
 <img width="480" src="http://localhost:8888/notebooks/endtoendmlproject/endtoendmlproject/finalproject-ml%20process-zulkarnain-Ts0q.ipynb#:~:text=Preparing%20the%20Dataset,5.33">
 
+<img width="480" src="https://user-images.githubusercontent.com/14181114/131140417-38d2e647-8316-41d5-9b81-583ecd2668a0.png">
+
 ## * Block preprocessing diagram
 
 
