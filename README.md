@@ -3,7 +3,7 @@
 ### Outcome Project
 * Block data preparation diagram
 
-Lets check the description of the dataset
+**Lets check the description of the dataset**
 print(boston.DESCR)
 
 .. _boston_dataset:
