@@ -65,6 +65,13 @@ problems.
 ![image](https://user-images.githubusercontent.com/103234274/204536227-feab7afe-1546-4ad0-876f-bcff5251ce82.png)
 
 ## * Block diagram features engineering.
+![image](https://user-images.githubusercontent.com/103234274/204537061-91fe7bca-d697-4153-be01-072b1c5359fc.png)
+
+![image](https://user-images.githubusercontent.com/103234274/204537150-20ef32e9-b60a-4ff4-827b-e312c00a9f25.png)
+
+![image](https://user-images.githubusercontent.com/103234274/204537293-e54e1a66-5c11-4c83-a677-16156f4c5034.png)
+
+![image](https://user-images.githubusercontent.com/103234274/204537394-3d170787-a05b-42e1-8324-51184e949133.png)
 
 
 ## * Block diagram modeling and its evaluation
