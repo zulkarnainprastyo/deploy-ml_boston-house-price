@@ -90,16 +90,33 @@ problems.
 ![image](https://user-images.githubusercontent.com/103234274/204539358-b5afa284-31e3-4607-9550-32d75dabf4d4.png)
 
 ## * Format Message to make predictions via API
-http://127.0.0.1:5000/predict_api
+{
+"data": {
+"CRIM": 0.8632,
+"ZN": 18.0,
+"INDUS": 2.31,
+"CHAS": 0.0,
+"NOX": 0.538,
+"RM": 6.575,
+"AGE": 65.2,
+"DIS": 4.0900,
+"RAD": 1.0,
+"TAX": 296,
+"PTRATIO": 15.3,
+"B": 396.90,
+"LSTAT": 4.98
+}
+}
 
 ## * Message response format of API
-
+http://127.0.0.1:5000/predict_api
 
 ## * How to run machine learning services on a local computer:
   ## * Retraining model
-  
-  
+  ![image](https://user-images.githubusercontent.com/103234274/204542271-95ba6ae6-656b-469b-b4c3-020eac6fda28.png)
+
   ## * Running API
+  ![image](https://user-images.githubusercontent.com/103234274/204542502-dae59a80-015c-421d-b256-4cf03de2000b.png)
 
 
 ### Software And Tools Requirements
