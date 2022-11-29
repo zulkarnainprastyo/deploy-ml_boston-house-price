@@ -1,5 +1,5 @@
 ### Deploy-ML_Boston-House-Price
-![image](https://user-images.githubusercontent.com/103234274/204553040-0a53c7aa-8e9c-4f86-9dc1-e85c65d983f0.png)
+<img width="480" src="![image](https://user-images.githubusercontent.com/103234274/204553040-0a53c7aa-8e9c-4f86-9dc1-e85c65d983f0.png)">
 
 ### Background Project
 ##### The main purpose of the Machine Learning Process course is to prepare in applying end to end machine learning workflows into real-world tasks, starting from business problems to service deployments.
