@@ -1,7 +1,7 @@
 ### Deploy-ML_Boston-House-Price
 
 ### Outcome Project
-* Block data preparation diagram
+### * Block data preparation diagram
 
 **Lets check the description of the dataset:**
 **print(boston.DESCR):**
@@ -58,14 +58,14 @@ problems.
    - Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
 
-* Block preprocessing diagram
-* Block diagram features engineering.
-* Block diagram modeling and its evaluation
-* Format Message to make predictions via API
-* Message response format of API
-* How to run machine learning services on a local computer:
-  * Retraining model
-  * Running API
+## * Block preprocessing diagram
+## * Block diagram features engineering.
+## * Block diagram modeling and its evaluation
+## * Format Message to make predictions via API
+## * Message response format of API
+## * How to run machine learning services on a local computer:
+  ## * Retraining model
+  ## * Running API
 
 
 ### Software And Tools Requirements
