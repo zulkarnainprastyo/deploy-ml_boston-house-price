@@ -5,6 +5,7 @@
 
 Lets check the description of the dataset
 print(boston.DESCR)
+
 .. _boston_dataset:
 
 Boston house prices dataset
