@@ -40,8 +40,6 @@ Boston house prices dataset
 This is a copy of UCI ML housing dataset.
 https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
-![image](https://user-images.githubusercontent.com/103234274/204535555-5fe52676-ad0c-41de-8853-6eae3d2ddb46.png)
-
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
 
 The Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic
@@ -60,7 +58,7 @@ problems.
 
 ![image](https://user-images.githubusercontent.com/103234274/204531631-7fbbc5ac-45f4-4e09-8146-c1539277b96b.png)
 
-![image](https://user-images.githubusercontent.com/103234274/204535384-bee6ff83-e692-4208-9179-d222e1cbe26d.png)
+![image](https://user-images.githubusercontent.com/103234274/204535555-5fe52676-ad0c-41de-8853-6eae3d2ddb46.png)
 
 
 ## * Block preprocessing diagram
