@@ -62,7 +62,12 @@ problems.
 
 
 ## * Block preprocessing diagram
-![image](https://user-images.githubusercontent.com/103234274/204536227-feab7afe-1546-4ad0-876f-bcff5251ce82.png)
+### X_train
+![image](https://user-images.githubusercontent.com/103234274/204540025-b58a1749-7257-464b-8fee-d256b512dcb9.png)
+
+### X_test
+![image](https://user-images.githubusercontent.com/103234274/204540099-92f50c59-f9f5-4d46-9b54-64459dc3bca8.png)
+
 
 ## * Block diagram features engineering.
 ![image](https://user-images.githubusercontent.com/103234274/204537061-91fe7bca-d697-4153-be01-072b1c5359fc.png)
