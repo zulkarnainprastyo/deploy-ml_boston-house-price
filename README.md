@@ -79,7 +79,11 @@ problems.
 
 
 ## * Block diagram modeling and its evaluation
+**X_train:**
 ![image](https://user-images.githubusercontent.com/103234274/204538995-c68cff04-395a-4876-b72e-a07d08a572e8.png)
+
+**X_test:**
+![image](https://user-images.githubusercontent.com/103234274/204539358-b5afa284-31e3-4607-9550-32d75dabf4d4.png)
 
 ## * Format Message to make predictions via API
 
