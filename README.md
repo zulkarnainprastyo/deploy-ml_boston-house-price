@@ -73,6 +73,10 @@ problems.
 
 ##### ![image](https://user-images.githubusercontent.com/103234274/204537394-3d170787-a05b-42e1-8324-51184e949133.png)
 
+##### ![image](https://user-images.githubusercontent.com/103234274/204537982-ea458db5-2af6-468a-84f2-686ac89984f1.png)
+
+##### ![image](https://user-images.githubusercontent.com/103234274/204538081-77753593-7819-4f18-910d-e8f17614a47d.png)
+
 
 ## * Block diagram modeling and its evaluation
 
