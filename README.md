@@ -68,7 +68,6 @@ problems.
 ### X_test
 ![image](https://user-images.githubusercontent.com/103234274/204540099-92f50c59-f9f5-4d46-9b54-64459dc3bca8.png)
 
-
 ## * Block diagram features engineering.
 ![image](https://user-images.githubusercontent.com/103234274/204537061-91fe7bca-d697-4153-be01-072b1c5359fc.png)
 
@@ -91,7 +90,7 @@ problems.
 ![image](https://user-images.githubusercontent.com/103234274/204539358-b5afa284-31e3-4607-9550-32d75dabf4d4.png)
 
 ## * Format Message to make predictions via API
-
+http://127.0.0.1:5000/predict_api
 
 ## * Message response format of API
 
