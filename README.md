@@ -57,7 +57,15 @@ problems.
    - Belsley, Kuh & Welsch, 'Regression diagnostics: Identifying Influential Data and Sources of Collinearity', Wiley, 1980. 244-261.
    - Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
-<img width="360" src="http://localhost:8888/notebooks/endtoendmlproject/endtoendmlproject/finalproject-ml%20process-zulkarnain-Ts0q.ipynb#:~:text=Preparing%20the%20Dataset,5.33">
+Out[13]:
+	CRIM	ZN	INDUS	CHAS	NOX	RM	AGE	DIS	RAD	TAX	PTRATIO	B	LSTAT
+0	0.00632	18.0	2.31	0.0	0.538	6.575	65.2	4.0900	1.0	296.0	15.3	396.90	4.98
+1	0.02731	0.0	7.07	0.0	0.469	6.421	78.9	4.9671	2.0	242.0	17.8	396.90	9.14
+2	0.02729	0.0	7.07	0.0	0.469	7.185	61.1	4.9671	2.0	242.0	17.8	392.83	4.03
+3	0.03237	0.0	2.18	0.0	0.458	6.998	45.8	6.0622	3.0	222.0	18.7	394.63	2.94
+4	0.06905	0.0	2.18	0.0	0.458	7.147	54.2	6.0622	3.0	222.0	18.7	396.90	5.33![image](https://user-images.githubusercontent.com/103234274/204531631-7fbbc5ac-45f4-4e09-8146-c1539277b96b.png)
+
+
 
 <img width="480" src="https://user-images.githubusercontent.com/14181114/131140417-38d2e647-8316-41d5-9b81-583ecd2668a0.png">
 
