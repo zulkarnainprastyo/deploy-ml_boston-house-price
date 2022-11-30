@@ -1,26 +1,26 @@
 ### Deploy-ML_Boston-House-Price
 ![image](https://user-images.githubusercontent.com/103234274/204553330-4e9890d6-02a9-4d88-8ee9-d66007829aae.png)
 
-### Background Project
-##### The main purpose of the Machine Learning Process course is to prepare in applying end to end machine learning workflows into real-world tasks, starting from business problems to service deployments.
-##### This case study is based on the famous Boston housing data. It contains the details of 506 houses in the Boston city. Your task is to create a machine learning model which can predict the average price of house based on its characteristics. In the below case study I will discuss the step by step approach to create a Machine Learning predictive model in such scenarios. You can use this flow as a template to solve any supervised ML Regression problem! The flow of the case study is as below:
-#### * Reading the data in python
-#### * Defining the problem statement
-#### * Identifying the Target variable
-#### * Looking at the distribution of Target variable
-#### * Basic Data exploration
-#### * Rejecting useless columns
-#### * Visual Exploratory Data Analysis for data distribution (Histogram and Barcharts)
-#### * Feature Selection based on data distribution
-#### * Outlier treatment
-#### * Missing Values treatment
-#### * Visual correlation analysis
-#### * Statistical correlation analysis (Feature Selection)
-#### * Converting data to numeric for ML
-#### * Sampling and K-fold cross validation
-#### * Trying multiple Regression algorithms
-#### * Selecting the best Model
-#### * Deploying the best model in production
+## Background Project
+#### The main purpose of the Machine Learning Process course is to prepare in applying end to end machine learning workflows into real-world tasks, starting from business problems to service deployments.
+#### This case study is based on the famous Boston housing data. It contains the details of 506 houses in the Boston city. Your task is to create a machine learning model which can predict the average price of house based on its characteristics. In the below case study I will discuss the step by step approach to create a Machine Learning predictive model in such scenarios. You can use this flow as a template to solve any supervised ML Regression problem! The flow of the case study is as below:
+    #### * Reading the data in python
+    #### * Defining the problem statement
+    #### * Identifying the Target variable
+    #### * Looking at the distribution of Target variable
+    #### * Basic Data exploration
+    #### * Rejecting useless columns
+    #### * Visual Exploratory Data Analysis for data distribution (Histogram and Barcharts)
+    #### * Feature Selection based on data distribution
+    #### * Outlier treatment
+    #### * Missing Values treatment
+    #### * Visual correlation analysis
+    #### * Statistical correlation analysis (Feature Selection)
+    #### * Converting data to numeric for ML
+    #### * Sampling and K-fold cross validation
+    #### * Trying multiple Regression algorithms
+    #### * Selecting the best Model
+    #### * Deploying the best model in production
 
 ### Data Description
 #### The business meaning of each column in the data is as below:
