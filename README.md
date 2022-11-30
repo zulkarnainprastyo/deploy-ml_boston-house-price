@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/103234274/204553330-4e9890d6-02a9-4d88-8ee9-d66007829aae.png)
 
 ## Background Project
+-----------------------------
 #### The main purpose of the Machine Learning Process course is to prepare in applying end to end machine learning workflows into real-world tasks, starting from business problems to service deployments.
 #### This case study is based on the famous Boston housing data. It contains the details of 506 houses in the Boston city. Your task is to create a machine learning model which can predict the average price of house based on its characteristics. In the below case study I will discuss the step by step approach to create a Machine Learning predictive model in such scenarios. You can use this flow as a template to solve any supervised ML Regression problem! The flow of the case study is as below:
 #### * Reading the data in python
@@ -23,6 +24,7 @@
 #### * Deploying the best model in production
 
 ### Data Description
+-----------------------------
 #### The business meaning of each column in the data is as below:
 * CRIM - per capita crime rate by town
 * ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -39,6 +41,7 @@
 * LSTAT - % lower status of the population
 
 ### Work Instructions
+-----------------------------
 ##### Step 1. Select Dataset
 ##### Step 2. Statement of Business Problems
 ##### Step 3. Implement Endo to End Machine Learning Workflow
@@ -47,7 +50,7 @@
 
 
 ### Outcome Project
------------------------------------
+-----------------------------
 ### * Block data preparation diagram
 
 **Lets check the description of the dataset:**
