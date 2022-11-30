@@ -174,4 +174,4 @@ conda create -p venv python==3.7 -y
 ```
 
 Now we can test our app is ready to predict information based on the input.
-http://127.0.0.1:5000/predict_api
+http://127.0.0.1:5000/
