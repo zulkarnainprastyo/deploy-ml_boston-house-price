@@ -2,7 +2,6 @@
 ![image](https://user-images.githubusercontent.com/103234274/204553330-4e9890d6-02a9-4d88-8ee9-d66007829aae.png)
 
 ## Background Project
------------------------------
 #### The main purpose of the Machine Learning Process course is to prepare in applying end to end machine learning workflows into real-world tasks, starting from business problems to service deployments.
 #### This case study is based on the famous Boston housing data. It contains the details of 506 houses in the Boston city. Your task is to create a machine learning model which can predict the average price of house based on its characteristics. In the below case study I will discuss the step by step approach to create a Machine Learning predictive model in such scenarios. You can use this flow as a template to solve any supervised ML Regression problem! The flow of the case study is as below:
 #### * Reading the data in python
