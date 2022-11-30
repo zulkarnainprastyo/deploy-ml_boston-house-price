@@ -142,7 +142,13 @@ problems.
 ![image](https://user-images.githubusercontent.com/103234274/204544308-22a6d545-de51-49f1-9d66-8ed7c1c1f621.png)
 
 ## * Message response format of API
-http://127.0.0.1:5000/predict_api
+    * Flask
+    * sklearn
+    * pandas
+    * numpy
+    * matplotlib
+    * seaborn
+    * gunicorn
 
 ## * How to run machine learning services on a local computer:
   ## * Retraining model
@@ -166,3 +172,6 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+
+Now we can test our app is ready to predict information based on the input.
+http://127.0.0.1:5000/predict_api
